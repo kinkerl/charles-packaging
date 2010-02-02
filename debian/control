@@ -1,0 +1,13 @@
+Source: charles
+Section: admin
+Priority: optional
+Maintainer: Dennis Schwertel <s@digitalkultur.net>
+Build-Depends: debhelper (>= 5)
+Standards-Version: 3.8.3
+Homepage: https://launchpad.net/persy
+
+Package: charles
+Architecture: all
+Depends: 
+Description: web debugging proxy
+ impressive proxy

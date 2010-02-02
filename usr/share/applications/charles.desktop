@@ -1,0 +1,9 @@
+[Desktop Entry]
+Encoding=UTF-8
+Categories=GNOME;Network;
+Comment=web debugging proxy
+Exec=charles
+GenericName=personal synchronization
+Icon=/opt/charles/etc/charles_icon128.png
+Name=charles
+Type=Application
