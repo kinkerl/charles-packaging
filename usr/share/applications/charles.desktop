@@ -5,5 +5,5 @@ Comment=web debugging proxy
 Exec=charles
 GenericName=personal synchronization
 Icon=/opt/charles/etc/charles_icon128.png
-Name=charles
+Name=Charles
 Type=Application
