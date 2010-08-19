@@ -1,3 +1,21 @@
+charles (3.5.2) lucid; urgency=low
+
+  * Include response status in filtering for sequence view
+  * Fix bug in table views for multipart responses
+  * Fix SSL certificate bugs in Internet Explorer
+  * Fix bug when using a custom CA cert that needs a password on startup
+  * Fix bug in reverse proxy not rewriting redirects over SSL
+  * Add "Use External Proxy Servers" toggle in Windows tray icon menu
+  * Fix Base64 decode popup positioning over text areas
+  * Fix multi-monitor positioning of the Charles window
+  * Fix bug where on Mac OS X the "Grant Privileges" prompt would repeat endlessly
+  * Fix POST support when authenticating with external proxy servers
+  * Add Multipart request editor
+  * Add Authentication request editor
+  * Add OAuth authentication header support
+
+ -- Dennis Schwertel <s@digitalkultur.net>  19 Aug 2010 14:00:00 +0000
+
 charles (3.5.1) karmic; urgency=low
 
   * Initial packaging
